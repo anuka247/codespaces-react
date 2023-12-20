@@ -21,11 +21,11 @@
   }
   .title {
     font-size: 50px;
-    margin: 0;
+    margin: 5px;
   }
   .emoji {
     font-size: 100px;
-    margin: 15px;
+    margin: 5px;
   }
   .answers {
     background-color: white;
