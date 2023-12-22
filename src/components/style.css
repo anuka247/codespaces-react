@@ -7,8 +7,8 @@
     background-color: #caf0f8;
   }
   .main {
-    height: 60vh;
-    width: 70vw;
+    height: 70vh;
+    width: 80vw;
     background-color: #0096c7;
     display: flex;
     justify-content: center;
@@ -58,4 +58,15 @@
   .ulaan {
     background-color: red;
     color: white;
+  }
+
+  .start{
+    width: 200px;
+    height:90px;
+    font-size: 30px;
+    box-shadow: 10px 3px 43px 0px rgba(32, 71, 216, 0.75);
+    -webkit-box-shadow: 10px 3px 43px 0px rgba(32, 71, 216, 0.75);
+    -moz-box-shadow: 10px 3px 43px 0px rgba(32, 71, 216, 0.75);
+    background-color: #caf0f8;
+    border-radius: 20px;
   }
